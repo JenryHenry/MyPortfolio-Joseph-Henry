@@ -3,11 +3,13 @@ export default function PortfolioPage() {
     <div className="container pt-4">
       <div className="row p-2">
         <div className="card m-5 bg-secondary-subtle" style={{ width: 500 }}>
-          <img
-            src="src\assets\weather-dashboard.png"
-            className="card-img-top pt-3"
-            alt="weather forecast"
-          />
+          <a href="https://jenryhenry.github.io/Challenge-6-Weather-Forecast/">
+            <img
+              src="src\assets\weather-dashboard.png"
+              className="card-img-top pt-3"
+              alt="weather forecast"
+            />
+          </a>
           <div className="card-body">
             <h5 className="card-title">Weather Dashboard Project</h5>
             <p className="card-text">
@@ -22,11 +24,13 @@ export default function PortfolioPage() {
           </div>
         </div>
         <div className="card m-5 bg-secondary-subtle" style={{ width: 500 }}>
-          <img
-            src="src\assets\Hungie-bois.png"
-            className="card-img-top pt-3"
-            alt="food finder"
-          />
+          <a href="https://jenryhenry.github.io/Hungie-Bois/">
+            <img
+              src="src\assets\Hungie-bois.png"
+              className="card-img-top pt-3"
+              alt="food finder"
+            />
+          </a>
           <div className="card-body">
             <h5 className="card-title">Hungie Bois Food Finder</h5>
             <p className="card-text">
@@ -50,11 +54,13 @@ export default function PortfolioPage() {
       </div>
       <div className="row p-2">
         <div className="card m-5 bg-secondary-subtle" style={{ width: 500 }}>
-          <img
-            src="src\assets\scheduler.png"
-            className="card-img-top pt-3"
-            alt="workday scheduler"
-          />
+          <a href="https://jenryhenry.github.io/Challenge-5-Scheduler/">
+            <img
+              src="src\assets\scheduler.png"
+              className="card-img-top pt-3"
+              alt="workday scheduler"
+            />
+          </a>
           <div className="card-body">
             <h5 className="card-title">Work Day Scheduler</h5>
             <p className="card-text">
